@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt">Saved</string>
+    <string-array name="diet">
+        <item>Omnivore</item>
+        <item>Vegetarian</item>
+        <item>Vegan</item>
+    </string-array>
+</resources>
