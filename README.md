@@ -1,2 +1,2 @@
 # Olio_HtyoApp
-Harjoitustyyö Lut Olio-ohjelmointi 2021
+Harjoitustyö Lut Olio-ohjelmointi 2021
